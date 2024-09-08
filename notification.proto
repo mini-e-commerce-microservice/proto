@@ -1,8 +1,8 @@
 syntax = "proto3";
 
-package notification;
+package notification_proto;
 
-option go_package = "generated/proto/notification";
+option go_package = "generated/proto/notification_proto";
 
 import "google/protobuf/timestamp.proto";
 
